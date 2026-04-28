@@ -43,8 +43,8 @@ export default function Home() {
           <source src="/petals.mp4" type="video/mp4" />
         </video>
         <img
-          src="/eminem.png"
-          alt="Eminem throwing flowers"
+          src="/1000433884.png"
+          alt="alisha being cute"
           className="w-96 md:w-[32rem] rounded-2xl mb-10 relative z-10"
         />
         <h3 className="text-2xl md:text-4xl font-bold text-[#d63384] pixel-font relative z-10">
