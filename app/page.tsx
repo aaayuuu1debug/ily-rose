@@ -43,7 +43,7 @@ export default function Home() {
           <source src="/petals.mp4" type="video/mp4" />
         </video>
         <img
-          src="/1000433884.png"
+          src="/eminem.png"
           alt="alisha being cute"
           className="w-96 md:w-[32rem] rounded-2xl mb-10 relative z-10"
         />
